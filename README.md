@@ -4,9 +4,9 @@
 ---
 
 ### 💡 About Me
-- 🔭 I’m currently working on **creative landing pages and startup MVPs**
-- 🌱 I’m learning **Next.js**, **Tailwind CSS**, and **Supabase**
-- 🎯 My goal is to become a **Top 1% Full-Stack Developer**
+- 🔭 I’m currently study on **SMK PGRI 05 JEMBER**
+- 🌱 I’m learning **React.js**, **Tailwind CSS**, and **MongoDB**
+- 🎯 My goal is to become a **Top 1% Programmer**
 - 💬 Ask me about **JavaScript, React, Express, MongoDB**
 - 🚀 Building under the alias: **Fizora**
 
@@ -36,6 +36,6 @@
 ---
 
 ### ⚡ Fun Fact
-> "Great code is not written — it's crafted."  
+> "Succes need, Focus, Consistent and Dicipline, Stay Hard🔥"  
 > – Fizora 🧠💻
 
