@@ -29,9 +29,9 @@
 ---
 
 ### 📫 Contact Me
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- 🌐 Website: [fizora.dev](https://your-portfolio-site.com)
+- 📧 Email: fizora4@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/yourname](none)
+- 🌐 Website: [fizora.dev](https://fizora.dev)
 
 ---
 
