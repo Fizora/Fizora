@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Fizora 👋</h1>
-<h3 align="center">Full-Stack Web Developer | MERN Stack Enthusiast | Building Digital Experiences</h3>
+<h3 align="center">Student | MERN Stack Enthusiast | Building Digital Experiences</h3>
 
 ---
 
