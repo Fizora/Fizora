@@ -27,9 +27,9 @@
 ---
 
 ### 📫 Contact Me
-- 📧 Email: fizora4@gmail.com
+- 📧 Email: moch.choirulfaiz2008@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/yourname](none)
-- 🌐 Website: [fizora.dev](https://fizora.dev)
+- 🌐 Website: fizora.vercel.app
 
 ---
 
