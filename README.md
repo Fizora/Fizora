@@ -16,16 +16,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,laravel,django,react,nextjs,nodejs,express,mongodb,mysql,prisma,tailwind,git,github,npm,vscode" />
 </p>
-
 ---
-
-### 📈 GitHub Stats
-<p align="center">
-
-</p>
-
----
-
 ### 📫 Contact Me
 - 📧 Email: moch.choirulfaiz2008@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/yourname](none)
