@@ -22,7 +22,7 @@
 ### 📫 Contact Me
 - 📧 Email: moch.choirulfaiz2008@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/yourname](none)
-- 🌐 Website: https://fizora.vercel.app
+- 🌐 Website: https://fizoraa.vercel.app
 
 ---
 
